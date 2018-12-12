@@ -2,7 +2,7 @@
 WebUI automation testing framework based on Selenium and unittest.
 
 #### 介绍：
-  pyse基于selenium（webdriver）进行了简单的二次封装，比selenium所提供的方法操作更简洁。.
+  pyse基于selenium（webdriver）进行了简单的二次封装，比selenium所提供的方法操作更简洁。
 
 #### 特点：
 * 默认使用CSS定位，同时支持多种定位方法（id\name\class\link_text\xpath\css）。
